@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+tickets.json
+bin/
+obj/
+devices.txt
+.DS_Store
